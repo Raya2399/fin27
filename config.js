@@ -35,51 +35,51 @@ const readMore = more.repeat(4001)
 
 
 global.owner = [
-['62895627413377', true],
-['628889616144', true],
-['6285776353741', 'Zeltoria', true]
+['6282261065144', true],
+['6282261065144', true],
+['6282261065144', 'Zeltoria', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069307'
-global.nomorown = '6285776353741'
-global.nomorown1 = '6285776353741'
-global.nomorown2 = '6285776353741'
-global.nomorwa = '6285776353741'
+global.nomorbot = '14843696993'
+global.nomorown = '6282261065144'
+global.nomorown1 = '6282261065144'
+global.nomorown2 = '6282261065144'
+global.nomorwa = '6282261065144'
 
 
 global.readMore = readMore
-global.author = 'Zeltoria'
-global.namebot = '​Yaemiko-MD'
-global.wm = '© Yaemiko By Zeltoria'
-global.media = 'https://telegra.ph/file/d368a50703e77d972118b.jpg'
+global.author = 'Fin Ofc'
+global.namebot = '​FIN-MD'
+global.wm = '© FIN MD By Fin Ofc'
+global.media = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg'
 global.watermark = wm
 global.wm2 = 'Zeltoria'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
-global.titlebot = `Yaemiko-Multidevice`
-global.stickpack = 'Yaemiko By'
-global.stickauth = `©Zeltoria`
+global.titlebot = `FIN-Multidevice`
+global.stickpack = 'FIN MD By'
+global.stickauth = `©Fin Ofc`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'Zeltoria'
-global.nameown2 = 'Zeltoria'
+global.nameown1= 'Fin Ofc'
+global.nameown2 = 'Fin Ofc'
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.sig = 'https://www.instagram.com/danilelistz02' //instagram
-global.sgh = 'https://github.com/Zeltoria' //github
-global.sgc = 'https://chat.whatsapp.com/FcV0KFRw5gv99xgVgOx3cc' //group whatsapp
+global.sig = 'https://www.instagram.com/al_vin.233' //instagram
+global.sgh = 'https://github.com/Raya2399' //github
+global.sgc = 'https://chat.whatsapp.com/JaDhlN6irs0AbP2LuIDmlH' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/' //youtube
 //Donasi/Payment
-global.pdana = '-' // dana
-global.povo = '0896-1075-0607'
-global.pgopay = '-' // gopay
+global.pdana = '0813-3299-5497' // dana
+global.povo = '-'
+global.pgopay = '0813-3299-5497' // gopay
 global.plinkaja = '-' //link aja
-global.ppulsa = '-' // pulsa
-global.ppulsa2 = '-' //pulsa 2
-global.psaweria = '-' // saweria
+global.ppulsa = '0813-3299-5497' // pulsa
+global.ppulsa2 = '0812-5186-8708' //pulsa 2
+global.psaweria = 'https://saweria.co/Rimuru233' // saweria
 //mending biarin aja
 global.ListHargaSewa = '├ 5 Hari IDR 3.000\n├ 7 Hari IDR 5.000\n├ 15+5 Hari IDR 10.000\n├ 30 Hari IDR 15.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -242,15 +242,15 @@ global.premnsfw = true
 // foto/image bot
 //ganti aja kalau ga tau cara gantinya buka telegra.ph upload
 //foto nya di situ terus salin link nya kesini
-global.thumb = 'https://telegra.ph/file/9eddb9c67b22a5488ef52.jpg' 
-global.imagebot = 'https://telegra.ph/file/9eddb9c67b22a5488ef52.jpg'
-global.giflogo = 'https://telegra.ph/file/c02bad57b6ce1d594a11c.mp4'
-global.thumbs = ['https://telegra.ph/file/6a25601518c0268e922fe.jpg']
+global.thumb = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg' 
+global.imagebot = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg'
+global.giflogo = 'https://telegra.ph/file/973b19abcc717320b6349.mp4'
+global.thumbs = ['https://telegra.ph/file/4ac6fe506c3cc6bbafb2e.jpg']
 global.thumbnailUrl = [
   'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/0a4bbeddf9fe0e7137453.jpg'
-global.fotonya2 = 'https://telegra.ph/file/00f7c04f645c3030a97b5.jpg' 
+global.fotonya1 = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg'
+global.fotonya2 = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg' 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=",
@@ -279,9 +279,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'Official Group'
-global.urlnya = "https://chat.whatsapp.com/JVEmPlaxZl207VPz1r5TAQ"
+global.urlnya = "https://chat.whatsapp.com/JaDhlN6irs0AbP2LuIDmlH"
 global.dtc = 'Call Owner'
-global.phn = '0813 8730 7198'
+global.phn = '0812 6106 5144'
 
 global.fsizedoc = '999'
 global.fpagedoc = '999'
